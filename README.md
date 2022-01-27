@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello there - Pablo Leon Rodrigues 
 
-<!--
-**pleonr/pleonr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-pleonr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-leon-rodrigues-9b47a824/)](https://www.linkedin.com/in/pablo-leon-rodrigues-9b47a824/)
+[![Gmail Badge](https://img.shields.io/badge/-pablo.leonrodrigues-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pablo.leonrodrigues@gmail.com)](mailto:pablo.leonrodrigues@gmail.com)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/leonpf)](https://www.reddit.com/user/leonpf)
 
-Here are some ideas to get you started:
+I'm a Brazzilian Software Engineer, I currently work from home (and I don't intend to change that). I'm working with crawlers with node, python, java, and friends.
+I'm writing modules and maps for D&D 5e (for my friends)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My current tech stack
+
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pleonr&count_private=true&show_icons=true&include_all_commits=true&theme=city_lights"/>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-276DC3?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Squid-0175C2?style=for-the-badge&logo=squid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Proxy-43853D?style=for-the-badge&logo=proxy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=bash&logoColor=white"/>
+  </p>
+</p>
+
