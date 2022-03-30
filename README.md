@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pablo.leonrodrigues-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pablo.leonrodrigues@gmail.com)](mailto:pablo.leonrodrigues@gmail.com)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/leonpf)](https://www.reddit.com/user/leonpf)
 
-I'm a Brazzilian Software Engineer, I currently work from home (and I don't intend to change that). I'm working with crawlers with node, python, java, and friends.
+I'm a Brazzilian Software Engineer, I'm currently working from home (and I don't intend to change that). I'm working with crawlers with GO, node, python, java, and friends.
 I'm writing modules and maps for D&D 5e (for my friends)
 
 ### My current tech stack
