@@ -26,8 +26,6 @@ I'm writing modules and maps for D&D 5e (for my friends)
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Squid-0175C2?style=for-the-badge&logo=squid&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Proxy-43853D?style=for-the-badge&logo=proxy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=bash&logoColor=white"/>
   </p>
 </p>
 
