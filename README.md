@@ -12,6 +12,7 @@ I'm writing modules and maps for D&D 5e (for my friends)
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pleonr&count_private=true&show_icons=true&include_all_commits=true&theme=city_lights"/>
   <p>
+    <img src="https://img.shields.io/badge/-404D59?style=for-the-badge&logo=go"/>
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
