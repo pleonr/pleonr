@@ -23,7 +23,10 @@ I'm writing modules and maps for D&D 5e (for my friends)
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-DDFFFF?style=for-the-badge&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Squid-0175C2?style=for-the-badge&logo=squid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-F0FFFF?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex"/>
 </p>
 
